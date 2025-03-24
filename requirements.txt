@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+peft  # For LoRA fine-tuning
+accelerate
+scikit-learn
+pandas
