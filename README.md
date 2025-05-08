@@ -41,7 +41,7 @@ gunzip data.csv.gz
 
 Prepare the unhealthy ingredient mapping:
 
-- Store a file named `unhealthy.json` with entries like:
+- Store a file named `unhealthy_ingredients.json` with entries like:
 
 ```json
 [
@@ -92,24 +92,6 @@ The application includes:
   - Context is inserted into a structured prompt passed to the LLM.
   - Token count is capped to prevent overload.
 
-## Logging and Debugging
-
-During execution, the system prints:
-
-- Prompt token length
-- Inference time
-- CUDA memory stats
-- Any generation or runtime errors
-
-These metrics help evaluate model efficiency across different inputs and environments.
-
-## Customization
-
-You can:
-
-- Replace the model with `mistralai/Mistral-7B-Instruct-v0.2` or `flan-t5-large` if Zephyr is too large for your system.
-- Extend `unhealthy.json` to add more rules.
-- Modify the Gradio interface to include chat history or CSV export.
 
 ## License
 
