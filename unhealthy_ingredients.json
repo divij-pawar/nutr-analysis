@@ -1,0 +1,263 @@
+[
+    {
+      "ingredient": "High-Fructose Corn Syrup",
+      "aliases": ["HFCS"],
+      "reason": "Linked to obesity, insulin resistance, and liver fat buildup."
+    },
+    {
+      "ingredient": "Monosodium Glutamate",
+      "aliases": ["MSG"],
+      "reason": "May cause headaches, sweating, and chest pain in sensitive individuals (MSG symptom complex)."
+    },
+    {
+      "ingredient": "Partially Hydrogenated Oils",
+      "aliases": ["Trans Fats"],
+      "reason": "Main source of trans fats, associated with heart disease and inflammation."
+    },
+    {
+      "ingredient": "Aspartame",
+      "aliases": [],
+      "reason": "Controversial artificial sweetener; possible link to cancer and neurological effects in high doses."
+    },
+    {
+      "ingredient": "Sodium Nitrate",
+      "aliases": [],
+      "reason": "Used in processed meats; forms nitrosamines, which are potentially carcinogenic."
+    },
+    {
+      "ingredient": "Sodium Nitrite",
+      "aliases": [],
+      "reason": "Like sodium nitrate, linked to cancer risks when heated or combined with certain compounds."
+    },
+    {
+      "ingredient": "Potassium Bromate",
+      "aliases": [],
+      "reason": "Classified as a possible carcinogen; banned in many countries but still used in US bread products."
+    },
+    {
+      "ingredient": "Butylated Hydroxyanisole",
+      "aliases": ["BHA"],
+      "reason": "Preservative; possible endocrine disruptor and carcinogen in animals."
+    },
+    {
+      "ingredient": "Butylated Hydroxytoluene",
+      "aliases": ["BHT"],
+      "reason": "Similar to BHA; linked to cancer in animal studies."
+    },
+    {
+      "ingredient": "Propyl Gallate",
+      "aliases": [],
+      "reason": "Preservative; may act as an endocrine disruptor and allergen."
+    },
+    {
+      "ingredient": "Artificial Flavors",
+      "aliases": [],
+      "reason": "Catch-all term; may include chemical compounds linked to hyperactivity and allergic reactions."
+    },
+    {
+      "ingredient": "Artificial Colors",
+      "aliases": [],
+      "reason": "Some dyes like Red 40 and Yellow 5 linked to hyperactivity and allergic reactions in children."
+    },
+    {
+      "ingredient": "Red 40",
+      "aliases": ["Allura Red AC"],
+      "reason": "Artificial dye; associated with hyperactivity and potential allergic reactions."
+    },
+    {
+      "ingredient": "Blue 1",
+      "aliases": ["Brilliant Blue FCF"],
+      "reason": "Artificial dye; linked to allergic reactions and potential toxicity in large amounts."
+    },
+    {
+      "ingredient": "Caramel Color",
+      "aliases": [],
+      "reason": "May contain 4-MEI, a byproduct that is a possible carcinogen."
+    },
+    {
+      "ingredient": "Sorbitol",
+      "aliases": [],
+      "reason": "Sugar alcohol that can cause digestive distress, bloating, or diarrhea in excess."
+    },
+    {
+      "ingredient": "Maltodextrin",
+      "aliases": [],
+      "reason": "Highly processed carbohydrate; can spike blood sugar and disrupt gut bacteria."
+    },
+    {
+      "ingredient": "Propylene Glycol",
+      "aliases": [],
+      "reason": "Used as a thickener and preservative; linked to kidney and liver damage in high doses."
+    },
+    {
+      "ingredient": "Polysorbate 80",
+      "aliases": [],
+      "reason": "Emulsifier; may affect gut lining and lead to inflammation in animal studies."
+    },
+    {
+      "ingredient": "Sodium Benzoate",
+      "aliases": [],
+      "reason": "Preservative that can form benzene (a carcinogen) when combined with vitamin C."
+    },
+    {
+      "ingredient": "Tert-Butylhydroquinone",
+      "aliases": ["TBHQ"],
+      "reason": "Preservative; linked to DNA damage and carcinogenicity in animal studies."
+    },
+    {
+      "ingredient": "Cyclamate",
+      "aliases": [],
+      "reason": "Artificial sweetener banned in the U.S. due to cancer risks in animal studies."
+    },
+    {
+      "ingredient": "Saccharin",
+      "aliases": [],
+      "reason": "Artificial sweetener; linked to bladder cancer in rats, though human risk is unclear."
+    },
+    {
+      "ingredient": "Titanium Dioxide",
+      "aliases": [],
+      "reason": "Used as a whitening agent; concerns over potential carcinogenicity and immune system effects."
+    },
+    {
+      "ingredient": "Brominated Vegetable Oil",
+      "aliases": ["BVO"],
+      "reason": "Used in citrus-flavored sodas; linked to neurological issues and banned in some countries."
+    },
+    {
+      "ingredient": "Diacetyl",
+      "aliases": [],
+      "reason": "Flavoring agent in buttery foods; associated with respiratory issues in factory workers."
+    },
+    {
+      "ingredient": "Perfluoroalkyl Substances",
+      "aliases": ["PFAS"],
+      "reason": "Used in packaging; linked to cancer, liver damage, and developmental issues."
+    },
+    {
+      "ingredient": "Acesulfame Potassium",
+      "aliases": ["Ace-K"],
+      "reason": "Artificial sweetener linked to potential cancer risks in animal studies."
+    },
+    {
+      "ingredient": "Sucralose",
+      "aliases": ["Splenda"],
+      "reason": "May alter gut microbiota and affect insulin response."
+    },
+    {
+      "ingredient": "Azodicarbonamide",
+      "aliases": [],
+      "reason": "Used as a dough conditioner; linked to respiratory issues and banned in some countries."
+    },
+    {
+      "ingredient": "Olestra",
+      "aliases": [],
+      "reason": "Fat substitute that can cause digestive issues and inhibit nutrient absorption."
+    },
+    {
+      "ingredient": "Sodium Aluminum Sulfate",
+      "aliases": [],
+      "reason": "Used in baking powders; excessive aluminum intake may be linked to neurotoxicity."
+    },
+    {
+      "ingredient": "Sodium Carboxymethyl Cellulose",
+      "aliases": ["CMC"],
+      "reason": "Thickener that may cause digestive discomfort and has been linked to inflammation in animal studies."
+    },
+    {
+      "ingredient": "Polysorbate 60",
+      "aliases": [],
+      "reason": "Emulsifier that may cause allergic reactions and has been linked to tumor formation in animal studies."
+    },
+    {
+      "ingredient": "Carnauba Wax",
+      "aliases": [],
+      "reason": "Used as a glazing agent; excessive consumption may lead to digestive issues."
+    },
+    {
+      "ingredient": "Magnesium Sulfate",
+      "aliases": ["Epsom Salt"],
+      "reason": "Used as a firming agent; high doses can cause diarrhea and electrolyte imbalance."
+    },
+    {
+      "ingredient": "Chlorine Dioxide",
+      "aliases": [],
+      "reason": "Used to bleach flour; exposure may lead to respiratory issues."
+    },
+    {
+      "ingredient": "Parabens",
+      "aliases": ["Methylparaben", "Propylparaben"],
+      "reason": "Preservatives that may disrupt hormone function and are linked to reproductive issues."
+    },
+    {
+      "ingredient": "Aluminum Additives",
+      "aliases": [],
+      "reason": "Used as stabilizers; excessive intake may be linked to neurotoxicity."
+    },
+    {
+      "ingredient": "Disodium Inosinate",
+      "aliases": [],
+      "reason": "Flavor enhancer often used with MSG; may cause allergic reactions in sensitive individuals."
+    },
+    {
+      "ingredient": "Disodium Guanylate",
+      "aliases": [],
+      "reason": "Flavor enhancer that can cause hyperactivity and asthma in sensitive individuals."
+    },
+    {
+      "ingredient": "Butane",
+      "aliases": [],
+      "reason": "Used as a gas propellant in food processing; inhalation can be harmful."
+    },
+    {
+      "ingredient": "Enriched Flour",
+      "aliases": [],
+      "reason": "Refined starch lacking natural nutrients; often bleached and may contain additives."
+    },
+    {
+      "ingredient": "Recombinant Bovine Growth Hormone",
+      "aliases": ["rBGH"],
+      "reason": "Synthetic hormone used to increase milk production; linked to cancer risks."
+    },
+    {
+      "ingredient": "Refined Vegetable Oil",
+      "aliases": [],
+      "reason": "High in omega-6 fatty acids; excessive intake linked to inflammation and heart disease."
+    },
+    {
+      "ingredient": "Bleached Starch",
+      "aliases": [],
+      "reason": "Processed starch that may contain chemical residues; linked to skin issues and asthma."
+    },
+    {
+      "ingredient": "Blue #2",
+      "aliases": ["Indigotine"],
+      "reason": "Artificial dye linked to brain tumors in animal studies."
+    },
+    {
+      "ingredient": "Brown HT",
+      "aliases": ["Chocolate Brown HT"],
+      "reason": "Artificial coloring linked to hyperactivity and asthma."
+    },
+    {
+      "ingredient": "Erythrosine",
+      "aliases": ["Red #3"],
+      "reason": "Artificial dye associated with thyroid tumors in animal studies."
+    },
+    {
+      "ingredient": "Tartrazine",
+      "aliases": ["Yellow #5","Yellow 5"],
+      "reason": "Artificial dye that may cause allergic reactions and behavioral issues in children."
+    },
+    {
+      "ingredient": "Sunset Yellow FCF",
+      "aliases": ["Yellow #6"],
+      "reason": "Artificial dye linked to hyperactivity and allergic reactions."
+    },
+    {
+      "ingredient": "Cochineal",
+      "aliases": ["Carminic Acid"],
+      "reason": "Natural dye derived from insects; may cause allergic reactions."
+    }
+  ]
+    
