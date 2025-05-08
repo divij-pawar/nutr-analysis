@@ -1,4 +1,5 @@
 # Nutrition Chatbot using Open Food Facts and Zephyr-7B
+[Experiment with the code here"](https://58fcaba2505021c408.gradio.live/)
 
 This project implements an interactive chatbot that provides nutritional insights for food products using data from [Open Food Facts](https://world.openfoodfacts.org/) and a Hugging Face instruction-tuned model (`zephyr-7b-beta`). The system analyzes ingredients, nutrients, known allergens, and unhealthy additives using a combination of structured metadata and natural language prompts.
 
